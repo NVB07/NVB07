@@ -37,10 +37,10 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100030906050783" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Binh-facebook" />
+    <img src="./icon/fb.png" alt="Binh-facebook" />
   </a>
   <a href="https://www.instagram.com/nvbinh.7/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Binh-instagram" />
+    <img src="./icon/ig.png" alt="Binh-instagram" />
   </a>
 </div>
 
