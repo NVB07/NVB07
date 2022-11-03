@@ -3,7 +3,7 @@
   <img src="svg/nvb.svg" width="1200" alt="binh" />
 </a>
 
-<h2 align="center">🛠 Technologies 🛠</h2>
+<h2 align="center"> Technologies </h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -19,7 +19,7 @@
 
 
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center">GitHub Stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
