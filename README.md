@@ -1,4 +1,4 @@
-<img alt="banner" style="width:100vw" src="/img/anh-gif-chill-hinh-gif-anime-dep-06.gif">
+<img alt="banner" style="width:100vw" src="./img/242e379f970c22bf30e1689290627058.gif">
 
 <h1 align="center">Hi 👋, I'm Binh</h1>
 <h3 align="center">I am a Student</h3>
