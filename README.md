@@ -1,7 +1,6 @@
 <img alt="banner" style="width:100vw" src="./img/242e379f970c22bf30e1689290627058.gif">
 
-<h1 align="center">Hi 👋, I'm Binh</h1>
-<h3 align="center">I am a Student</h3>
+<h1 align="center">🫶 I'm Binh</h1>
 
 ### 🛠 My knowledge
 
